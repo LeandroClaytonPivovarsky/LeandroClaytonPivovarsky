@@ -7,10 +7,10 @@
 - Não configurei muito bem meu Linkedin, mas planejo utilizar ele futuramente.
 - ⚡ Fato sobre mim: Gosto MUITO de jogar, mas criar jogo não é meu forte.
 
-<div align="center" gap="10px">
+<div align="center">
   <a href="https://github.com/LeandroClaytonPivovarsky">
-  <img width="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroClaytonPivovarsky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroClaytonPivovarsky&layout=compact&langs_count=7&theme=dark"/>
+  <img width="40vw" src="https://github-readme-stats.vercel.app/api?username=LeandroClaytonPivovarsky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="40vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroClaytonPivovarsky&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!---
