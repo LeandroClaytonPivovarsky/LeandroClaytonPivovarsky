@@ -5,7 +5,13 @@
 - 📫 Para saber como eu sou é só botar no insta: leandropivovarsky
 - ou também meu linkedin https://br.linkedin.com/in/leandro-clayton-pivovarsky-886739226
 - Não configurei muito bem meu Linkedin, mas planejo utilizar ele futuramente.
-- ⚡ Fato sobre mim: Gosto MUITO de jogar, mas criar jogo não é meu forte. 
+- ⚡ Fato sobre mim: Gosto MUITO de jogar, mas criar jogo não é meu forte.
+
+<div align="center">
+  <a href="https://github.com/LeandroClaytonPivovarsky">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kayure&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayure&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!---
 LeandroClaytonPivovarsky/LeandroClaytonPivovarsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
